@@ -1,0 +1,27 @@
+
+<style>
+h1 {
+   
+}
+p{
+	font-size: large;
+	 margin-left: 48%;
+    margin-right: 48%;
+}
+h2{
+	font-family:fantasy;
+	color: red;
+}
+h3{
+	font-size: bold;
+	font-size: 15px;
+}
+span{
+	font-size: large;
+	color: lightgreen;
+}
+img{
+	float: left;
+	margin: 10% 10% 10% 10%;
+}
+</style>
